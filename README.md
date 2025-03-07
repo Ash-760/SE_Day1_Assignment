@@ -6,8 +6,8 @@ SE_Day1_Assignment
 1.Explain what software engineering is and discuss its importance in the technology industry
 Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems.
 IMPORTANCE
-reliability and maintainability- Structured development ensures software is reliable, easy to maintain and can be updated with minimal risk
-efficiency - it helps to optimize developer workflow while maintaining high quality standards.
+ reliability and maintainability- Structured development ensures software is reliable, easy to maintain and can be updated with minimal risk
+ efficiency - it helps to optimize developer workflow while maintaining high quality standards.
  scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
  security - implement protection practice like authentication, authorization and encryption to secure users informatioon.
 
